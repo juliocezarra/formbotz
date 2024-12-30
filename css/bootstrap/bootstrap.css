@@ -1,0 +1,10 @@
+.form-control-file {
+  border: 1px solid #ccc;
+  padding: 10px;
+  background: #f8f9fa;
+  border-radius: 5px;
+}
+.form-control-file:focus {
+  outline: none;
+  border-color: #000;
+}
